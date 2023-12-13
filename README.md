@@ -1,2 +1,5 @@
 # d1-ckeditor
-CKEditor 4 used by Destiny One
+
+This repository contains a list of slightly customized CKEditor 4 releases (in zip file format) that have been
+used by Destiny One.
+
